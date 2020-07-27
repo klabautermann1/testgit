@@ -1,3 +1,3 @@
-int func0.c(){
+int func0(){
   return 0;
 }
